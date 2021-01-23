@@ -1,0 +1,8 @@
+# Build release to bin folder
+
+--no-traces
+-dce full
+-cp src
+-lib djWeb
+-main Main
+-js ../bin/code.js

@@ -1,0 +1,111 @@
+{
+"entries" : [
+
+	{ "title": "romdj",
+	"desc" : "romdj is a CLI tool to organize/verify emulation roms using No-Intro database (.dat) files.",
+	"type" : "tool",
+	"thumb" : "romdj.gif",
+	"lang" : "haxe", "year": "2019",
+	"url":   "https://github.com/john32b/romdj"
+	},
+
+	{ "title": "djTui",
+	"desc": "A simple platform agnostic Terminal User Interface, powered by HAXE. Run a TUI on a real console, or emulate it on html5. Provides basic tools like textboxes, vertical lists, inputfields and more.",
+	"type": "open source lib",
+	"thumb": "djtui.gif",
+	"lang":  "haxe", "year": "2018",
+	"url":   "https://github.com/john32b/djTui"
+	},
+	
+	{ "title": "cdcrush.NET",
+	"desc": "Highly Compress CD Based games. A port of the original nodeJS version. This is written in C# and it provides an easy to use GUI, and some new features",
+	"type": "tool",
+	"thumb": "cdcrush.net.png",
+	"lang":  "C#, Haxe", "year": "2018",
+	"url":   "https://github.com/john32b/cdcrush.net"
+	},
+	
+	
+	{  "title":  "Ludum Dare 40 Entry", 
+	"desc" :  "A very short (incomplete) game made for the Ludum Dare 40 game jam. Completed in 3 days. The theme was 'the more you have, the worse it gets'. In the game leveling up is bad because monsters level up with you. Source is available at the game page",
+	"type" :  "game",
+	"lang" :  "haxeflixel", "year": "2017",
+	"video":  "forf.webm",
+	"url"  :  "https://john0032.itch.io/forf"
+	},
+		
+	{  "title":  "Tomb Explorer", 
+	"desc" :  "Classic arcade action platformer. The goal is to reach the end of each level while opening tombs and collecting treasure.",
+	"type" :  "game",
+	"lang" :  "haxeflixel", "year": "2016",
+	"video":  "texpl.webm",
+	"url"  :  "https://john0032.itch.io/tombexplorer"
+	},
+	
+	
+	{ "title": "djFlixel", 
+	"desc" :"Various helpers and tools library for haxeflixel. Includes a customizable Menu system, easy map loading, streamlined controls, web API intergration for gamehosting sites, and more.", 
+	"type" :"open source lib",
+	"lang" :"haxeflixel",  "year": "2016+",
+	"video": "djflx03.webm",
+	"url"  :"https://github.com/john32b/djFlixel"
+	},
+	
+	{  "title": "Future Knight", 
+	"desc" : "A freestyle remake of Future Knight. An oldschool platform game released in 1986 for the 8bit computers like Amstrad, Commodore64 and ZXSpectrum.", 
+	"type" : "game",
+	"lang" : "haxeflixel, Flash", "year": "2015",
+	"video": "futurek.webm",
+	"url"  : "https://john0032.itch.io/futurek"
+	},
+
+	{ "title": "RD52", 
+	"desc" :"A short action game about a robot killing wildlife and collecting metal parts. Designed to mimic the GameBoy aesthetics, using a low resolution and 4 colors. Made for the GameBoy Jam 2015.",
+	"type" :"game",
+	"lang" :"haxeflixel, Flash", "year": "2015",
+	"video":"rd52.webm",
+	"url"  :"https://john0032.itch.io/rd52"
+	},
+
+	{ "title":"cdcrush (nodejs)",
+	"desc" :"This is a CLI tool to highly compress CD images, and especially CD based games that feature CDDA. ( CD Digital Audio ). It will use an audio codec to compress the audio. Later the compressed image can be restored to a full CD image file.", 
+	"type" :"tool",
+	"lang" :"haxe, nodejs",  "year": "2014",
+	"video":"cdcrush.webm",
+	"url"  :"https://www.npmjs.com/package/cdcrush"
+	},
+
+	{ "title": "youtubeMixer",
+	"desc" : "A fullscreen youtube video player that can automix videos using a crossfade effect. Videos are pre-buffered, so the transition is instantaneous!",
+	"type" : "web",
+	"lang" : "javascript", "year": "2014",
+	"video": "youtubemixer.webm",
+	"url"  :"http://github.com/john32b/youtubeMixer"
+	},
+
+	{ "title": "djNode",
+	"desc": "Node.js toolkit for easy nodejs application development. Provides various tools like a Terminal color interface, easy to use task system and more",
+	"type": "open source lib",
+	"thumb": "djnode.png",
+	"lang":  "haxe, nodejs", "year": "2014",
+	"url":   "https://github.com/john32b/djNode"
+	},
+
+	{ "title": "Flash Site, project gallery",
+	"desc": "Pure flash site. Gallery of projects, where each project can have it's own gallery of images,videos and swf files",
+	"type": "web",
+	"lang": "actionscript 3", "year": "2011",
+	"video": "fluid.webm",
+	"url": "http://john32b.github.io/host/fluid_demo"
+	},
+
+	{ "title": "Flash Site, image gallery",
+	"desc": "Pure Flash site. Main feature is the fullscreen sliding image gallery.",
+	"type": "web",
+	"lang": "actionscript 3", "year": "2010",
+	"video": "asprim.webm",
+	"url": "http://john32b.github.io/host/asprim_demo"
+	}
+]
+
+}
