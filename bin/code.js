@@ -1856,7 +1856,7 @@ var sections_Section_$Other = function() {
 	djWeb_W.text.addStyle("textH",{ font : this.FONT, size : 14, bold : "300", color : this.COLOR1, padding : "2px 32px 10px 32px"});
 	this.setResizeBehavior("rubber",[REG.MIN_WIDTH,REG.DEF_WIDTH]);
 	this.add(djWeb_W.text.sText("A simple page showcasing some of the projects I have worked on. The entire page was build with javascript code, compiled with HAXE.","textH"));
-	this.add(this.toLink(REG.ICON_TUMBLR,"Visit my %Tumblr% page to csee some of my graphics related work",REG.LINK_TUMBLR));
+	this.add(this.toLink(REG.ICON_TUMBLR,"Visit my %Tumblr% page to see some of my graphics related work",REG.LINK_TUMBLR));
 	this.add(this.toLink(REG.ICON_GITHUB,"Checkout the repository with source of this page at %Github%",REG.LINK_GITHUB));
 	this.add(this.toLink(REG.ICON_TWITTER,"Follow me on Twitter %" + ("@" + REG.LINK_TWITTER_HANDLE + "%"),REG.LINK_TWITTER));
 	this.add(this.toLink(REG.ICON_EMAIL,"Send me an e-mail %" + ("" + REG.LINK_EMAIL + "%"),"mailto:" + REG.LINK_EMAIL));
@@ -1982,7 +1982,7 @@ var sections_Section_$Title = function() {
 		++_g;
 		el.appendChild(i);
 	}
-	BOTTOM.appendChild(this.getLink(REG.ICON_TWITTER,"Twitter","https://www.twitter.com/" + REG.LINK_TWITTER));
+	BOTTOM.appendChild(this.getLink(REG.ICON_TWITTER,"Twitter",REG.LINK_TWITTER));
 	BOTTOM.appendChild(this.getLink(REG.ICON_TUMBLR,"Tumblr",REG.LINK_TUMBLR));
 	if(REG.LINK_BLOG != null) {
 		BOTTOM.appendChild(this.getLink(REG.ICON_BLOG,"Blog",REG.LINK_BLOG));

@@ -61,7 +61,7 @@ class Section_Title extends Section
 		W.dom.qAppend(TOP, [title, subTitle]);
 		W.dom.qAppend(el, [TOP, BOTTOM]);
 
-		BOTTOM.appendChild(getLink(REG.ICON_TWITTER, "Twitter", 'https://www.twitter.com/' + REG.LINK_TWITTER));
+		BOTTOM.appendChild(getLink(REG.ICON_TWITTER, "Twitter", REG.LINK_TWITTER));
 		BOTTOM.appendChild(getLink(REG.ICON_TUMBLR, "Tumblr", REG.LINK_TUMBLR));
 		if (REG.LINK_BLOG != null)
 		BOTTOM.appendChild(getLink(REG.ICON_BLOG, "Blog", REG.LINK_BLOG));
