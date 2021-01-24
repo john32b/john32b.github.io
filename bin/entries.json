@@ -92,11 +92,11 @@
 	},
 
 	{ "title": "Flash Site, project gallery",
-	"desc": "Pure flash site. Gallery of projects, where each project can have it's own gallery of images,videos and swf files",
+	"desc": "Pure flash site. Gallery of projects, where each project can have it's own gallery of images,videos and swf files.",
 	"type": "web",
 	"lang": "actionscript 3", "year": "2011",
 	"video": "fluid.webm",
-	"url": "http://john32b.github.io/host/fluid_demo"
+	"url": "https://streamable.com/kh9wf3"
 	},
 
 	{ "title": "Flash Site, image gallery",
@@ -104,7 +104,7 @@
 	"type": "web",
 	"lang": "actionscript 3", "year": "2010",
 	"video": "asprim.webm",
-	"url": "http://john32b.github.io/host/asprim_demo"
+	"url": "https://streamable.com/v5godj"
 	}
 ]
 
