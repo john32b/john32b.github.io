@@ -1,6 +1,14 @@
 {
 "entries" : [
 
+	{ "title": "winMT",
+	"desc" : "winMT is a CLI tool to apply a custom set of tweaks/settings onto a Windows 10 installation",
+	"type" : "tool",
+	"thumb" : "winmt.gif",
+	"lang" : "haxe", "year": "2020",
+	"url":   "https://github.com/john32b/winmt"
+	},
+	
 	{ "title": "romdj",
 	"desc" : "romdj is a CLI tool to organize/verify emulation roms using No-Intro database (.dat) files.",
 	"type" : "tool",
